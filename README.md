@@ -1,4 +1,4 @@
-### 🌟 Sugar Cane Disease Detection using ResNet-50 🌿
+###Sugar Cane Disease Detection using ResNet-50 🌿
 
 The **Repo** is a comprehensive exploration of utilizing deep learning for the detection of diseases in sugar cane crops. 🌾
 
