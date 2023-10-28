@@ -1,6 +1,14 @@
 ### 🌟 Sugar Cane Disease Detection using ResNet-50 🌿
 
-The following code is a comprehensive exploration of utilizing deep learning for the detection of diseases in sugar cane crops. 🌾
+The **Repo** is a comprehensive exploration of utilizing deep learning for the detection of diseases in sugar cane crops. 🌾
+
+### 🌾 The Problem Statement: Detecting Sugar Cane Diseases
+
+Now, let's remember the quest itself. Our mission is to detect diseases in sugar cane crops. In this age of technology, deep learning is our sword, and the ResNet-50 model is our fortress. By exploring the dataset, preprocessing images, and training our model, we aim to distinguish between healthy and infected sugar cane crops. Our goal is to provide farmers with a tool to protect their valuable crops from diseases. 🌱🛡️
+
+With this code, we embark on a noble journey to safeguard the livelihoods of farmers and ensure the health of sugar cane crops. 🚀🌾🌟
+
+*Let the adventure begin!* 🌟🌿🛡️
 
 #### 📚 Importing Necessary Libraries
 
@@ -12,12 +20,12 @@ The adventure begins with importing some essential libraries. These tools are th
 - **matplotlib.pyplot 📈**: Our window to visualize data and results.
 - **seaborn (sns) 📊**: The artist's palette for making our visualizations more appealing.
 - **cv2 (OpenCV) 📷**: The image wizard for image processing tasks.
-- **tensorflow (tf) 🧠**: Our knight in shining armor for building and training deep neural networks.
-- **keras.utils.np_utils 🧰**: The tool for working with arrays and encoding labels.
+- **Tensorflow (tf) 🧠**: Our knight in shining armor for building and training deep neural networks.
+- **keras. utils.np_utils 🧰**: The tool for working with arrays and encoding labels.
 - **keras.models 🏗️**: The architect for constructing neural network models.
 - **keras.layers 🧱**: The building blocks for our neural fortresses.
-- **tensorflow.keras.optimizers 🚀**: The captain of optimization for our models.
-- **tensorflow.keras.layers 🧱**: More building blocks for deep learning structures.
+- **TensorFlow. keras.optimizers 🚀**: The captain of the optimization for our models.
+- **TensorFlow. keras.layers 🧱**: More building blocks for deep learning structures.
 
 #### 🌄 Exploring the Dataset
 
@@ -65,10 +73,4 @@ We specify the batch size and the number of training epochs, and then the traini
 
 Every hero needs a memoir. We save the trained fortress (model) as "resnet.h5" to remember our achievements.
 
-### 🌾 The Problem Statement: Detecting Sugar Cane Diseases
 
-Now, let's remember the quest itself. Our mission is to detect diseases in sugar cane crops. In this age of technology, deep learning is our sword, and the ResNet-50 model is our fortress. By exploring the dataset, preprocessing images, and training our model, we aim to distinguish between healthy and infected sugar cane crops. Our goal is to provide farmers with a tool to protect their valuable crops from diseases. 🌱🛡️
-
-With this code, we embark on a noble journey to safeguard the livelihoods of farmers and ensure the health of sugar cane crops. 🚀🌾🌟
-
-*Let the adventure begin!* 🌟🌿🛡️
